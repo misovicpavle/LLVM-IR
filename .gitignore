@@ -1,0 +1,17 @@
+# CLion and IDE files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Build directories
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Compiled binaries and libraries
+*.o
+*.a
+*.so
+*.dylib
+*.exe
